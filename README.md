@@ -1,7 +1,9 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 Name:RAMYA.P
+
 Register number:212223240137
+
 Date:26/2/25
 
 ## AIM
